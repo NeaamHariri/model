@@ -2,6 +2,5 @@ streamlit
 yfinance
 matplotlib
 mplfinance
-fbprophet
 plotly
 git+https://github.com/StreamAlpha/pynse.git
