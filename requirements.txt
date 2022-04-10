@@ -1,6 +1,7 @@
-streamlit
+streamlit== 1.5.0.
 yfinance
 matplotlib
 mplfinance
+fbprophet
 plotly
 git+https://github.com/StreamAlpha/pynse.git
